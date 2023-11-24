@@ -1,4 +1,4 @@
-
+@import url('https://fonts.cdnfonts.com/css/inter');
 
 .main {
 
@@ -55,7 +55,10 @@ a {
     gap: 10px;
 }
 
-img {
-   margin-right: 1000px;
-    
+.logo {
+    display: block;
+    margin-top: 25px;
+    margin-right: 1035px;
+    width: 150px;
+    height: 50px;
 }

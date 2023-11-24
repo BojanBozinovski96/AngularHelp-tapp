@@ -1,6 +1,6 @@
 .wrapper {
 
-   
+
     width: 1728px;
     height: 6477px;
     background: rgba(22, 22, 24, 0.90);
@@ -33,6 +33,9 @@ h2 {
 }
 
 .title {
+
+    
+    
     margin-top: 73px;
     display: inline-block;
     margin-left: 200px;
@@ -48,35 +51,282 @@ h2 {
     line-height: 32px;
     margin-top: -200px;
     margin-left: 200px;
-    width: 840px;
+    width: 550px;
     color: #D0D6E0
+}
+#fix {
+    margin-top: 200px;
 }
 
 p {
     font-size: 20px;
+    color: #D0D6E0
 }
 
 h2 {
     font-size: 64px;
 }
-#grandChild1{
+// .titleh2{
+//     margin-top: 150px;
+// }
+#grandChild1 {
     margin-left: 970px;
-    margin-top: -220px;
+    margin-top: -270px;
     width: 400px;
 }
-#grandChild1p{
-color: #D0D6E0;
-font-family: Inter;
-font-size: 16px;
-font-style: normal;
-font-weight: 300;
-line-height: normal;
+
+#grandChild1p {
+    color: #D0D6E0;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    width: 250px;
 }
+
+#gc1 {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.022px;
+    margin-top: 25px;
+}
+
+
+.igc1 {
+    border-radius: 20px;
+    border-top: 1.5px solid rgba(255, 255, 255, 0.02);
+    border-right: 0.5px solid rgba(255, 255, 255, 0.02);
+    border-left: 0.5px solid rgba(255, 255, 255, 0.02);
+    background: rgba(255, 255, 255, 0.01);
+    width: 74px;
+    height: 74px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#grandChild2 {
+    margin-left: 1300px;
+    margin-top: -230px;
+    width: 400px;
+}
+
+#grandChild2p {
+    color: #D0D6E0;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    width: 250px;
+
+}
+
+#gc2 {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.022px;
+    margin-top: 25px;
+
+}
+.igc2 {
+    border-radius: 20px;
+    border-top: 1.5px solid rgba(255, 255, 255, 0.02);
+    border-right: 0.5px solid rgba(255, 255, 255, 0.02);
+    border-left: 0.5px solid rgba(255, 255, 255, 0.02);
+    background: rgba(255, 255, 255, 0.01);
+    width: 74px;
+    height: 74px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+#grandChild3{
+    margin-left: 970px;
+    margin-top: 50px;
+    width: 400px;
+
+}
+#grandChild3p{
+    color: #D0D6E0;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    width: 250px;
+
+}
+#gc3{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.022px;
+    margin-top: 25px;
+    
+
+}
+.igc3{
+    border-radius: 20px;
+    border-top: 1.5px solid rgba(255, 255, 255, 0.02);
+    border-right: 0.5px solid rgba(255, 255, 255, 0.02);
+    border-left: 0.5px solid rgba(255, 255, 255, 0.02);
+    background: rgba(255, 255, 255, 0.01);
+    width: 74px;
+    height: 74px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+#grandChild4{
+    margin-left: 1300px;
+    margin-top: -210px;
+    width: 400px;
+
+}
+#grandChild4p{
+    color: #D0D6E0;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    width: 250px;
+
+}
+#gc4 {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.022px;
+    margin-top: 25px;
+
+}
+.igc4{
+    border-radius: 20px;
+    border-top: 1.5px solid rgba(255, 255, 255, 0.02);
+    border-right: 0.5px solid rgba(255, 255, 255, 0.02);
+    border-left: 0.5px solid rgba(255, 255, 255, 0.02);
+    background: rgba(255, 255, 255, 0.01);
+    width: 74px;
+    height: 74px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+#grandChild5{
+    margin-left: 970px;
+    margin-top: 50px;
+    width: 400px;
+
+}
+#grandChild5{
+    color: #D0D6E0;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    width: 250px;
+
+}
+#gc5{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.022px;
+    margin-top: 25px;
+
+}
+.igc5 {
+    border-radius: 20px;
+    border-top: 1.5px solid rgba(255, 255, 255, 0.02);
+    border-right: 0.5px solid rgba(255, 255, 255, 0.02);
+    border-left: 0.5px solid rgba(255, 255, 255, 0.02);
+    background: rgba(255, 255, 255, 0.01);
+    width: 74px;
+    height: 74px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+#grandChild6{
+    margin-left: 1300px;
+    margin-top: -245px;
+    width: 400px;
+
+}
+#grandChild6p { 
+    color: #D0D6E0;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    width: 250px;
+
+}
+
+
+#gc6 {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.022px;
+    margin-top: 25px;
+
+}
+.igc6 {
+    border-radius: 20px;
+    border-top: 1.5px solid rgba(255, 255, 255, 0.02);
+    border-right: 0.5px solid rgba(255, 255, 255, 0.02);
+    border-left: 0.5px solid rgba(255, 255, 255, 0.02);
+    background: rgba(255, 255, 255, 0.01);
+    width: 74px;
+    height: 74px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
 
 .rectangle {
     margin-top: 400px; // FIX !
     background: linear-gradient(275deg, #FFF855 0%, #46E3B7 100%);
-   
+
     height: 466px;
     flex-shrink: 0;
     display: flex;
@@ -84,6 +334,7 @@ line-height: normal;
 
 
 }
+
 .cher {
     height: 851px;
 }
@@ -154,9 +405,10 @@ h3 {
     width: 288px;
 
 }
+
 .box {
 
-flex-shrink: 0;
+    flex-shrink: 0;
 }
 
 .ourproducts {
@@ -185,6 +437,7 @@ flex-shrink: 0;
     line-height: 32px;
     margin-left: 250px;
     margin-top: 100px;
+    margin-bottom: 0px;
 
     font-size: 20px;
     width: 500px;
@@ -226,9 +479,10 @@ flex-shrink: 0;
     font-weight: 300;
     line-height: normal;
     width: 238px;
-    margin-top:30px;
-    margin-left:25px;
+    margin-top: 30px;
+    margin-left: 25px;
 }
+
 #strong {
     font-size: 23px;
     color: white;
@@ -246,6 +500,7 @@ flex-shrink: 0;
     box-shadow: 0px 12px 12px 0px rgba(0, 0, 0, 0.02);
     margin-top: -290px;
 }
+
 #child2p {
     color: #D0D6E0;
     font-family: Inter;
@@ -254,10 +509,11 @@ flex-shrink: 0;
     font-weight: 300;
     line-height: normal;
     width: 238px;
-    margin-top:30px;
-    margin-left:25px;
+    margin-top: 30px;
+    margin-left: 25px;
 
 }
+
 #child3 {
     margin-left: 250px;
     margin-top: 30px;
@@ -269,8 +525,9 @@ flex-shrink: 0;
     border: 1px solid rgba(255, 255, 255, 0.05);
     border-radius: 12px;
     box-shadow: 0px 12px 12px 0px rgba(0, 0, 0, 0.02);
-    
+
 }
+
 #child3p {
     color: #D0D6E0;
     font-family: Inter;
@@ -279,15 +536,17 @@ flex-shrink: 0;
     font-weight: 300;
     line-height: normal;
     width: 238px;
-    margin-top:30px;
-    margin-left:25px;
+    margin-top: 30px;
+    margin-left: 25px;
 
 }
+
 #child4 {
     margin-top: -290px;
-    margin-left:563px;
+    margin-left: 563px;
     display: flex;
-   
+    background: rgba(255, 255, 255, 0.03);
+    
     width: 288px;
     height: 288px;
     border: 1px solid rgba(255, 255, 255, 0.05);
@@ -297,9 +556,9 @@ flex-shrink: 0;
 
 #child5 {
     margin-top: 25px;
-    margin-left:250px;
+    margin-left: 250px;
     display: flex;
-   
+    background: rgba(255, 255, 255, 0.03);
     width: 288px;
     height: 288px;
     border: 1px solid rgba(255, 255, 255, 0.05);
@@ -311,21 +570,22 @@ flex-shrink: 0;
 #child5p {
     color: #D0D6E0;
     font-family: Inter;
+    
     font-size: 20px;
     font-style: normal;
     font-weight: 300;
     line-height: normal;
     width: 238px;
-    margin-top:30px;
-    margin-left:25px;
+    margin-top: 30px;
+    margin-left: 25px;
 
 }
 
 #child6 {
     margin-top: -290px;
-    margin-left:565px;
+    margin-left: 565px;
     display: flex;
-   
+    background: rgba(255, 255, 255, 0.03);
     width: 288px;
     height: 288px;
     border: 1px solid rgba(255, 255, 255, 0.05);
@@ -342,45 +602,51 @@ flex-shrink: 0;
     font-weight: 300;
     line-height: normal;
     width: 238px;
-    margin-top:30px;
-    margin-left:25px;
+    margin-top: 30px;
+    margin-left: 25px;
 }
+
 #child7 {
     width: 602px;
     height: 602px;
+    background: rgba(255, 255, 255, 0.03);
+   
     border: 1px solid rgba(255, 255, 255, 0.05);
-    border-radius: 12px;
     box-shadow: 0px 12px 12px 0px rgba(0, 0, 0, 0.02);
     margin-left: 876px;
     margin-top: -605px;
 }
+
 img {
     background-size: 100% 100%;
 }
+
 #child8 {
     margin-top: -200px;
-    margin-left:876px;
-  
-   
+    margin-left: 876px;
+    background: rgba(255, 255, 255, 0.03);
+
     width: 288px;
     height: 288px;
     border: 1px solid rgba(255, 255, 255, 0.05);
     border-radius: 12px;
     box-shadow: 0px 12px 12px 0px rgba(0, 0, 0, 0.02);
 }
+
 #child9 {
-    
-   margin-left:1190px;
-   margin-top: -290px;
- 
-   
+
+    margin-left: 1190px;
+    margin-top: -290px;
+    background: rgba(255, 255, 255, 0.03);
+
     width: 288px;
     height: 288px;
     border: 1px solid rgba(255, 255, 255, 0.05);
     border-radius: 12px;
     box-shadow: 0px 12px 12px 0px rgba(0, 0, 0, 0.02);
 }
-#child9p{
+
+#child9p {
     color: #D0D6E0;
     font-family: Inter;
     font-size: 20px;
@@ -388,36 +654,39 @@ img {
     font-weight: 300;
     line-height: normal;
     width: 238px;
-    margin-top:30px;
-    margin-left:25px;
+    margin-top: 30px;
+    margin-left: 25px;
 }
+
 #child10 {
     margin-top: 25px;
-    margin-left:876px;
-  
-   
+    margin-left: 876px;
+    background: rgba(255, 255, 255, 0.03);
+
     width: 288px;
     height: 288px;
     border: 1px solid rgba(255, 255, 255, 0.05);
     border-radius: 12px;
     box-shadow: 0px 12px 12px 0px rgba(0, 0, 0, 0.02);
 }
+
 #child10p {
-     color: #D0D6E0;
+    color: #D0D6E0;
     font-family: Inter;
     font-size: 20px;
     font-style: normal;
     font-weight: 300;
     line-height: normal;
     width: 238px;
-    margin-top:30px;
-    margin-left:25px;
+    margin-top: 30px;
+    margin-left: 25px;
 }
+
 #child11 {
     margin-top: -290px;
-    margin-left:1190px;
-  
-   
+    margin-left: 1190px;
+    background: rgba(255, 255, 255, 0.03);
+
     width: 288px;
     height: 288px;
     border: 1px solid rgba(255, 255, 255, 0.05);
@@ -425,7 +694,8 @@ img {
     box-shadow: 0px 12px 12px 0px rgba(0, 0, 0, 0.02);
 
 }
-#child11p{
+
+#child11p {
     color: #D0D6E0;
     font-family: Inter;
     font-size: 20px;
@@ -433,20 +703,22 @@ img {
     font-weight: 300;
     line-height: normal;
     width: 238px;
-    margin-top:30px;
-    margin-left:25px;
+    margin-top: 30px;
+    margin-left: 25px;
 }
+
 #child12 {
     margin-top: 25px;
-    margin-left:876px;
-  
-   
+    margin-left: 876px;
+    background: rgba(255, 255, 255, 0.03);
+
     width: 288px;
     height: 288px;
     border: 1px solid rgba(255, 255, 255, 0.05);
     border-radius: 12px;
     box-shadow: 0px 12px 12px 0px rgba(0, 0, 0, 0.02);
 }
+
 #child12p {
     color: #D0D6E0;
     font-family: Inter;
@@ -455,20 +727,22 @@ img {
     font-weight: 300;
     line-height: normal;
     width: 238px;
-    margin-top:30px;
-    margin-left:25px;
+    margin-top: 30px;
+    margin-left: 25px;
 }
+
 #child13 {
     margin-top: -290px;
-    margin-left:1190px;
-  
-   
+    margin-left: 1190px;
+    background: rgba(255, 255, 255, 0.03);
+
     width: 288px;
     height: 288px;
     border: 1px solid rgba(255, 255, 255, 0.05);
     border-radius: 12px;
     box-shadow: 0px 12px 12px 0px rgba(0, 0, 0, 0.02);
 }
+
 #child13p {
     color: #D0D6E0;
     font-family: Inter;
@@ -477,9 +751,10 @@ img {
     font-weight: 300;
     line-height: normal;
     width: 238px;
-    margin-top:30px;
-    margin-left:25px;
+    margin-top: 30px;
+    margin-left: 25px;
 }
+
 #child14 {
     width: 602px;
     height: 602px;
@@ -488,5 +763,5 @@ img {
     box-shadow: 0px 12px 12px 0px rgba(0, 0, 0, 0.02);
     margin-left: 249px;
     margin-top: -605px;
-    
+
 }
